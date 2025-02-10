@@ -22,8 +22,3 @@ Este é um projeto de site de moda, construído com HTML, CSS e Bootstrap. Ele e
 
 Certifique-se de ter o **Bootstrap 5** incluído em seu projeto. Você pode usar a versão local, como mostrado no código, ou utilizar os links CDN diretamente no arquivo HTML.
 
-### Passos
-
-1. **Clone o Repositório**
-   ```bash
-   git clone https://seu-repositorio.git
